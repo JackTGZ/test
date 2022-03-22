@@ -1,5 +1,4 @@
 # test
 Project Artemis
 
-Income Tax Calculator Program
-
+Campaign Management
